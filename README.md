@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Pal.
 
-🎓 Estudiante de Ingeniería de Datos en Barcelona.
+🎓 Estudiante de Ingeniería de Datos en Barcelona, UAB.
 
 Me estoy formando en análisis, transformación y modelado de datos, con enfoque en reporting y generación de información estructurada para la toma de decisiones.
 
