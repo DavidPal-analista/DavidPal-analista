@@ -75,7 +75,7 @@ Tecnologías: Python, Power BI, SQL.
 
 📍 Barcelona, España  
 📧 Email: tuemail@email.com  
-🔗 LinkedIn: https://www.linkedin.com/in/David Pal
+🔗 LinkedIn: https://www.linkedin.com/in/DavidPal
 💻 GitHub: https://github.com/DavidPal-analista
 
 ---
